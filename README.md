@@ -14,4 +14,4 @@ $ docker run -p 8080:8080 docker-rate-exchange
 P.S. при необходимости используйте команду sudo
 
 5)Вы можете проверить работу приложения в браузере:
-http://localhost:8080/status/*CODE* (Вместо *CODE* - код валюты (USD, EUR итп))
+http://localhost:8080/status/CODE (Вместо CODE - код валюты (USD, EUR итп))
