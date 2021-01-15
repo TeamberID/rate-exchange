@@ -1,0 +1,10 @@
+com/example/rateexchange/service/GifServiceImplTest.java
+ com.example.rateexchange.service.GifServiceImplTest
+com/example/rateexchange/util/JSONMapperTest.java
+ com.example.rateexchange.util.JSONMapperTest
+com/example/rateexchange/RateExchangeApplicationTests.java
+ com.example.rateexchange.RateExchangeApplicationTests
+com/example/rateexchange/controller/MainControllerTest.java
+ com.example.rateexchange.controller.MainControllerTest
+com/example/rateexchange/service/RateExchangeServiceImplTest.java
+ com.example.rateexchange.service.RateExchangeServiceImplTest

@@ -1,0 +1,18 @@
+com/example/rateexchange/service/RateExchangeService.java
+ com.example.rateexchange.service.RateExchangeService
+com/example/rateexchange/service/GifService.java
+ com.example.rateexchange.service.GifService
+com/example/rateexchange/feign/GifClient.java
+ com.example.rateexchange.feign.GifClient
+com/example/rateexchange/feign/ExchangeRatesClient.java
+ com.example.rateexchange.feign.ExchangeRatesClient
+com/example/rateexchange/util/JSONMapper.java
+ com.example.rateexchange.util.JSONMapper
+com/example/rateexchange/RateExchangeApplication.java
+ com.example.rateexchange.RateExchangeApplication
+com/example/rateexchange/service/GifServiceImpl.java
+ com.example.rateexchange.service.GifServiceImpl
+com/example/rateexchange/service/RateExchangeServiceImpl.java
+ com.example.rateexchange.service.RateExchangeServiceImpl
+com/example/rateexchange/controller/MainController.java
+ com.example.rateexchange.controller.MainController
